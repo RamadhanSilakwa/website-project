@@ -29,13 +29,13 @@
     background-color: rgba(137, 30, 231, 0.3); 
     z-index: 2; 
 }
-.content {
+/* .content {
     display:flex;
     flex-direction: row;
     position: relative;
     z-index: 3; 
     color: white; 
-}
+} */
 /* .credentials{
     display:flex;
     flex-direction: row;
@@ -167,6 +167,10 @@
     display:flex;
     flex-direction: row;
     position:relative;
+}
+.table2{
+    text-align: center;
+    position: relative;
 }
 /* .table1{
     position:absolute;
